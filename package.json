@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tailgrids": "^1.1.7",
+    "tailwindcss-tables": "^0.4.0"
+  }
+}
